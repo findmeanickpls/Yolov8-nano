@@ -3,7 +3,7 @@
 A lightweight AI-powered crowd head detection and counting system built using **YOLOv8 Nano**, trained on event crowd imagery and deployed as a live web application using **Flask**.
 
 🔗 Live Demo:
-[YOLOv8 Nano Crowd Detection App](https://yolov8-nano.onrender.com/?utm_source=chatgpt.com)
+[YOLOv8 Nano Crowd Detection App](https://huggingface.co/spaces/Findmeanickpls/yolov8n-Nano_headcount)
 
 ---
 
@@ -34,7 +34,7 @@ Unlike generic object detection demos, this project was specifically developed a
 
 The application is publicly deployed on Render:
 
-🔗 https://yolov8-nano.onrender.com/
+🔗 https://huggingface.co/spaces/Findmeanickpls/yolov8n-Nano_headcount
 
 Users can:
 
