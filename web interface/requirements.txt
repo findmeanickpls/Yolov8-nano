@@ -1,0 +1,9 @@
+flask
+gunicorn
+ultralytics
+opencv-python-headless
+pillow
+numpy==1.26.4
+torch
+torchvision
+torchaudio
